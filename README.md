@@ -5,7 +5,7 @@ Repositório de mapas, shapefiles, arquivos Geo JSON e outros, utilizados nos pr
 ## Mapas
 
 - [Distritos](arquivos/distritos/)
-    - [GeoJSON](arquivos/distritos/geojson/distritos.json)
+    - [GeoJSON](arquivos/distritos/geojson/distritos-sp.json)
     - [Shapefile](arquivos/distritos/shapefile/)
 - [Subprefeituras](arquivos/subprefeituras/)
     - [GeoJSON](arquivos/subprefeituras/geojson/subprefeituras.json)
