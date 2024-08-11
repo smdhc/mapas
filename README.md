@@ -5,8 +5,8 @@ Repositório de mapas, shapefiles, arquivos Geo JSON e outros, utilizados nos pr
 ## Mapas
 
 - [Distritos](arquivos/distritos/)
-    - [GeoJSON](arquivos/distritos/geojson/SIRGAS_SHP_distrito.json)
+    - [GeoJSON](arquivos/distritos/geojson/distritos.json)
     - [Shapefile](arquivos/distritos/shapefile/)
 - [Subprefeituras](arquivos/subprefeituras/)
-    - [GeoJSON](arquivos/subprefeituras/geojson/SIRGAS_SHP_subprefeitura.json)
+    - [GeoJSON](arquivos/subprefeituras/geojson/subprefeituras.json)
     - [Shapefile](arquivos/subprefeituras/shapefile/)
